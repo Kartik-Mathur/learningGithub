@@ -1,2 +1,0 @@
-Learning git! and github!
-Learning merging of branches.
